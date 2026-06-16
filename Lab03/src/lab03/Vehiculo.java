@@ -6,7 +6,7 @@ package lab03;
 
 /**
  *
- * @author fbarg
+ * @author jarle
  */
 public class Vehiculo {
     private String marca;
